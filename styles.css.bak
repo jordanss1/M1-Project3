@@ -1,0 +1,53 @@
+body {
+	margin: 0;
+	padding: 0;
+	background-color: Lavender;
+}
+
+.ulnav {
+	font-family: 'PT Sans', sans-serif;
+	font-size: 14px;
+}
+
+.hello * {
+	margin-bottom: 0;
+	font-family: 'PT Sans', sans-serif;
+}
+
+.hello p  {
+	margin-bottom: 10px;
+}
+
+.topright {
+	height: auto;
+}
+
+.2nddiv {
+	display: flex;
+	justify-content: space-evenly;
+	height: auto;
+}
+
+.1strow {
+	height: auto;
+}
+
+.2ndrow {
+	height: auto;
+}
+
+a:link { 
+	text-decoration: none; 
+}
+
+a:visited { 
+	text-decoration: none; 
+}
+
+a:hover { 
+	text-decoration: none; 
+}
+
+a:active { 
+	text-decoration: none; 
+}
